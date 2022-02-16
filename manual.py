@@ -1,1 +1,2 @@
 print('manual')
+print('smita')
